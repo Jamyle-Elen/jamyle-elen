@@ -26,7 +26,7 @@
 
 
 
-
+<!--
 
 <div><br>
   <img align="center" alt="Myle-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,6 +35,8 @@
   <img align="center" alt="Myle-CSS" height="30" width="35" src="https://user-images.githubusercontent.com/110051309/214709025-656be295-9a4f-4182-840e-c6d2170ebefa.png">
   <img align="right" alt="Myle-assinatura" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110051309/205395853-60aa00fd-9e20-4353-ab39-96291b9e9ad7.png">
 </div>
+
+-->
 
 <!--
 **Jamyle-Elen/jamyle-elen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
