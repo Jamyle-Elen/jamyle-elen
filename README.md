@@ -1,5 +1,3 @@
-![banner](https://user-images.githubusercontent.com/110051309/215089735-2ec05369-3d38-4069-9740-2c64fa3295be.png)
-
 <h2>Olá! 👋</h2>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jamyle-elen) ![GitHub Org's stars](https://img.shields.io/github/stars/jamyle-elen?style=social)
