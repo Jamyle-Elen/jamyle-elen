@@ -1,10 +1,8 @@
-<h2>Olá! 👋</h2>
+<h2>Olá, Eu sou Jamyle Elen👋</h2>
+
+Design Gráfico na Escola Técnica Estadual Jurandir Bezerra Lins - Pernambuco BR 🦅
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jamyle-elen) ![GitHub Org's stars](https://img.shields.io/github/stars/jamyle-elen?style=social)
-
-Eu sou Jamyle Elen! 
-- <i>Atualmente:</i> Design Gráfico na escola técnica - Recife PE. 
-- <i>Anteriormente:</i> Desenvolvimento de Sistemas.
 
 <h2>💻 Aprendendo atualmente</h2>
 
@@ -17,7 +15,18 @@ __Art__
 - Proporção
 - Lux e sombra
 
-<h2>👀 GitHub Status</h2>
+#
+<h3 align='center'>Desenhos</h2>
+<div align='center'>
+  
+  <img alt="Myle-Js" height="300" width="300" src="https://user-images.githubusercontent.com/110051309/217969091-472c61e1-c1a6-4fdb-b19d-aa04a0e4f123.png">
+  <img alt="Myle-Js" height="300" width="300" src="https://user-images.githubusercontent.com/110051309/217969237-5ccc4ce1-21cc-4784-904f-7cb0f36adf1d.png">
+  
+</div>
+<p align='center'><em>Esse é o <strong>Dhelf Plypheris</strong>, Elfo Lanceiro, um dos que restaram do atentado contra suas terras. Possui em seu corpo as marcas da violência dos humanos.</em></p>
+<h6 align='end'>Personagem criado -</h6>
+
+<h2 align='center'>👀 GitHub Status</h2>
 <div align='center'>
   
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=jamyle-elen&count_private=true&show_icons=true&hide=contribs)
