@@ -1,5 +1,6 @@
 <h2>Olá, Eu sou Jamyle Elen👋</h2>
 
+<h3>Atualmente</h3>
 Design Gráfico na Escola Técnica Estadual Jurandir Bezerra Lins - Pernambuco BR 🦅
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jamyle-elen) ![GitHub Org's stars](https://img.shields.io/github/stars/jamyle-elen?style=social)
