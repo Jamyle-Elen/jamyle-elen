@@ -10,6 +10,7 @@ Design Gráfico na Escola Técnica Estadual Jurandir Bezerra Lins - Pernambuco B
 __Home__
 - Aprofundando meus conhecimentos em HTML5 e CSS3
 - JavaScript & React JS
+- Linux
 
 __Art__
 - Profundidade
