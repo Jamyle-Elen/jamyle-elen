@@ -42,6 +42,7 @@ __Art__
 <a href="mailto:jamyleelen09@gmail.com">![jamyleelen09@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/jamyle-elen-cardoso-do-nascimento-31841b24a/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href=""> <a href="https://vercel.com/dashboard">![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)</a>
 
 </div>
+
 <div align='center'>
   
   <img alt="Myle-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -51,12 +52,9 @@ __Art__
   
 </div>
 
-<div align='end'>
-  
-`*--*`
-</div>
-
 <div align="end">
+  
+  <p>`*--*`</p>
 <img src="https://user-images.githubusercontent.com/110051309/214704434-c8fdc834-1ef1-4666-9b0a-e2ea15148f39.jpg" width=40> <img src="https://user-images.githubusercontent.com/110051309/214707041-629373ac-31f8-4a31-977a-406b60eb6d78.jpeg" width=40> 
 </div>
 
