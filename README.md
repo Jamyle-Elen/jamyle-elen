@@ -15,7 +15,7 @@ __Home__
 __Art__
 - Profundidade
 - Proporção
-- Lux e sombra
+- Luz e sombra
 
 #
 <h3 align='center'>Desenhos</h2>
