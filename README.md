@@ -8,14 +8,18 @@ Design Gráfico na Escola Técnica Estadual Jurandir Bezerra Lins - Pernambuco B
 <h2>💻 Aprendendo atualmente</h2>
 
 __Home__
-- Aprofundando meus conhecimentos em HTML5 e CSS3
 - JavaScript & React JS
 - Linux
+- Hardware
+- Formação Web CSS Developer
+- Formação Javascript Developer
+- Santander Bootcamp 2023 - Fullstack Java+Angular
 
 __Art__
 - Profundidade
 - Proporção
 - Luz e sombra
+- Realismo
 
 #
 <h3 align='center'>Desenhos</h2>
