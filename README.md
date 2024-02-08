@@ -1,5 +1,9 @@
-<h2>Olá, Eu sou Jamyle Elen👋</h2>
-
+<h2>Olá! Sou eu Jamyle Elen👋</h2>
+<!--
+![PROGRAMADORES DO AMANHÃ](https://img.shields.io/badge/PROGRAMADORES%20DO%20AMANHÃ-Turma_5-ffd11a?style=for-the-badge&&logoColor=white)(https://programadoresdoamanha.org) ㅤ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<!--
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=jamyle-elen&count_private=true&show_icons=true&theme=merko)
+-->
 <h3>Atualmente</h3>
 Design Gráfico na Escola Técnica Estadual Jurandir Bezerra Lins - Pernambuco BR 🦅
 
@@ -31,15 +35,6 @@ __Art__
 </div>
 <p align='center'><em>Esse é o <strong>Dhelf Plypheris</strong>, Elfo Lanceiro, um dos que restaram do atentado contra suas terras. Possui em seu corpo as marcas da violência dos humanos.</em></p>
 <h6 align='end'>Personagem criado -</h6>
-
-<h2 align='center'>👀 GitHub Status</h2>
-<div align='center'>
-  
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=jamyle-elen&count_private=true&show_icons=true&hide=contribs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamyle-elen&layout=compact)
-  
-</div>
 
 <div align='center'>
   
