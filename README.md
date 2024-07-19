@@ -1,16 +1,17 @@
 <h2>Olá! Sou eu Jamyle Elen👋</h2>
 
 [![PROGRAMADORES DO AMANHÃ](https://img.shields.io/badge/PROGRAMADORES%20DO%20AMANHÃ-Turma_5-ffd11a?style=for-the-badge&&logoColor=white)](https://programadoresdoamanha.org)
-[![START](https://img.shields.io/badge/START-2024.2-fff?style=for-the-badge&labelColor=000080&logoColor=white)](https://www.redecidada.org.br/projetos/projeto-start-latam/)
+[![START](https://img.shields.io/badge/START-2024.2-fff?style=for-the-badge&labelColor=7e01ff&logoColor=White)](https://www.proa.org.br/proprofissao/)
+[![PROA](https://img.shields.io/badge/PROPROFISSAO-2024.2-fff?style=for-the-badge&labelColor=1c3380&logoColor=white)](https://www.proa.org.br/proprofissao/)
 
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=jamyle-elen&count_private=true&show_icons=true&theme=merko)
 
 <h2>Tecnologias</h2><br>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![RUBY](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
