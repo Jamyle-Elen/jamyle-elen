@@ -1,7 +1,7 @@
 <h2>Olá! Sou eu Jamyle Elen👋</h2>
 
 [![PROGRAMADORES DO AMANHÃ](https://img.shields.io/badge/PROGRAMADORES%20DO%20AMANHÃ-Turma_5-ffd11a?style=for-the-badge&&logoColor=white)](https://programadoresdoamanha.org)
-[![START](https://img.shields.io/badge/START-2024.2-fff?style=for-the-badge&labelColor=7e01ff&logoColor=White)](https://www.redecidada.org.br/projetos/projeto-start/)
+[![START](https://img.shields.io/badge/START+-CYBERSECURITY-fff?style=for-the-badge&labelColor=7e01ff&logoColor=White)](https://www.redecidada.org.br/projetos/projeto-start/)
 [![PROA](https://img.shields.io/badge/PROPROFISSAO-2024.2-fff?style=for-the-badge&labelColor=1c3380&logoColor=white)](https://www.proa.org.br/proprofissao/)
 
 
@@ -19,7 +19,6 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
