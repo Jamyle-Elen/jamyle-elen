@@ -28,6 +28,7 @@
 <div align='center'><br>
   <img alt="Myle-Js" height="50" width="50" src="https://github.com/Jamyle-Elen/jamyle-elen/assets/110051309/eff2c701-7bdf-456b-83a0-d19cd8476064">
   <img alt="Myle-Js" height="50" width="50" src="https://github.com/Jamyle-Elen/jamyle-elen/assets/110051309/beb800f9-676c-4a00-b2ab-d60bd4453cf0">
+  <img alt="Bootcamp Decola Tech 2025" height="50" width="50" src="https://github.com/user-attachments/assets/422dc85d-0d13-4429-a216-02bcdb39d88d">
 </div>
 
 <!--
