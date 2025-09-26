@@ -2,6 +2,7 @@
 
 [![PROGRAMADORES DO AMANHÃ](https://img.shields.io/badge/PROGRAMADORES%20DO%20AMANHÃ-Turma_5-ffd11a?style=for-the-badge&&logoColor=white)](https://programadoresdoamanha.org)
 [![START](https://img.shields.io/badge/START+-CYBERSECURITY-fff?style=for-the-badge&labelColor=7e01ff&logoColor=White)](https://www.redecidada.org.br/projetos/projeto-start/)
+[![START](https://img.shields.io/badge/START-AWS%20re/Start-fff?style=for-the-badge&labelColor=ffd11a&logoColor=White)](https://www.redecidada.org.br/projetos/projeto-start/)
 [![PROA](https://img.shields.io/badge/PROPROFISSAO-2024.2-fff?style=for-the-badge&labelColor=1c3380&logoColor=white)](https://www.proa.org.br/proprofissao/)
 
 
