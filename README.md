@@ -4,6 +4,8 @@
 [![START](https://img.shields.io/badge/START+-CYBERSECURITY-fff?style=for-the-badge&labelColor=7e01ff&logoColor=White)](https://www.redecidada.org.br/projetos/projeto-start/)
 [![START](https://img.shields.io/badge/START-AWS%20re/Start-fff?style=for-the-badge&labelColor=ffd11a&logoColor=White)](https://www.redecidada.org.br/projetos/projeto-start/)
 [![PROA](https://img.shields.io/badge/PROPROFISSAO-2024.2-fff?style=for-the-badge&labelColor=1c3380&logoColor=white)](https://www.proa.org.br/proprofissao/)
+[![Decola Tech](https://img.shields.io/badge/Decola_Tech-Turma_6-fff?style=for-the-badge&logo=avanade&logoColor=white&labelColor=ff6600)](https://divulgaemprego.com/job/programa-decola-tech-2025-recife-899547/#google_vignette)
+
 
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=jamyle-elen&count_private=true&show_icons=true&theme=merko)
